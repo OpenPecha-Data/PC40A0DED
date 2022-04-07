@@ -1,0 +1,36 @@
+id: PC40A0DED
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA10431
+  instance_id: http://purl.bdrc.io/resource/IE30013
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཚད་མ་རིགས་གཞུང་རྒྱ་མཚོ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P821
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    6180d9c68d90426995dd7fc5cf9b6d7f:
+      title: པོད ༢་ཚད་མ་རིགས་གཞུང་རྒྱ་མཚོ
+      volume_number: 2
+      base_file: UT30013_5746_0000.txt
+      reference: http://purl.bdrc.io/resource/VL8E869BAD986D1A52
+      image_group: '5746'
+      quality: Low
+    00bf465038134f979fb4e0d69a1fdc64:
+      title: པོད ༡་ཚད་མ་རིགས་གཞུང་རྒྱ་མཚོ
+      volume_number: 1
+      base_file: UT30013_5745_0000.txt
+      reference: http://purl.bdrc.io/resource/VL1EB5A9AA8E71763D
+      image_group: '5745'
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W30013
+  - http://purl.bdrc.io/resource/MW30013
+  ocr_software: Namsel
+created_at: '2021-12-22T11:14:56.337925'
+last_modified_at: '2021-12-22T11:14:56.337932'
